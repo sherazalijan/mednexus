@@ -1,0 +1,7 @@
+154
+
+
+//python -m extarction.process_book
+//SELECT COUNT(*) FROM mcqs;
+
+//SELECT MAX(page_number) FROM mcqs;

@@ -1,0 +1,6 @@
+{
+  "name": "MedNexus",
+  "description": "A high-performance medical exam preparation platform compatible with AMBOSS and UWorld styles, designed for direct integration with FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

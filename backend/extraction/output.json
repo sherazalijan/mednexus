@@ -1,0 +1,114 @@
+{
+  "mcqs": [
+    {
+      "question_number": 19,
+      "question": "A patient presents with acute blood loss following trauma. Which of the following is the most immediate compensatory response?",
+      "option_a": "Decreased sympathetic tone",
+      "option_b": "Increased ADH secretion",
+      "option_c": "Increased renal plasma flow",
+      "option_d": "Increased GFR",
+      "correct_answer": "B",
+      "explanation": "Acute blood loss -> ↓ blood volume/pressure -> baroreceptor activation -> ↑ ADH release to conserve water and maintain blood pressure; RPF and GFR actually decrease, not increase. Blood loss should lead to ↑ sympathetic flow, ↓ renal plasma flow & GFR."
+    },
+    {
+      "question_number": 20,
+      "question": "A clinician is assessing a patient for malnutrition. Standard nutritional charts primarily incorporate which parameters?",
+      "option_a": "Weight loss and BMI",
+      "option_b": "Height alone",
+      "option_c": "Serum sodium levels",
+      "option_d": "Blood pressure",
+      "correct_answer": "A",
+      "explanation": "Standard nutritional assessment mainly uses weight loss + BMI, as they best reflect current and chronic nutritional status (more reliable than electrolytes or height alone)."
+    },
+    {
+      "question_number": 21,
+      "question": "Which of the following is the primary role of neutrophils in innate immunity?",
+      "option_a": "Antibody production",
+      "option_b": "Phagocytosis and microbial killing",
+      "option_c": "Antigen presentation",
+      "option_d": "Cytokine-mediated signaling",
+      "correct_answer": "B",
+      "explanation": "Neutrophils are the first-line innate immune cells that rapidly phagocytose and destroy microbes using enzymes and ROS."
+    },
+    {
+      "question_number": 22,
+      "question": "A child presents with growth retardation and visual disturbances. Imaging reveals a suprasellar mass compressing the optic chiasm. What visual field defect is most likely?",
+      "option_a": "Homonymous hemianopia",
+      "option_b": "Bitemporal hemianopia",
+      "option_c": "Central scotoma",
+      "option_d": "Inferior quadrantanopia",
+      "correct_answer": "B",
+      "explanation": "Suprasellar mass compressing the optic chiasm -> loss of temporal visual fields in both eyes (bitemporal hemianopia) (FA pg 540) Recall that nonfunctional tumors present with mass effect (e.g., compression of the optic chiasm), and pituitary apoplexy leads to hypopituitarism. The growth retardation in this case is due to apoplexy affecting somatotrophs -> ↓ GH -> growth retardation. Functional tumors, in contrast, secrete hormones in excess, leading to conditions such as acromegaly/gigantism."
+    },
+    {
+      "question_number": 23,
+      "question": "30-year-old man is found to have bilaterally enlarged kidneys with multiple cysts on ultrasound. His father had similar disease. What is the pattern of inheritance?",
+      "option_a": "Autosomal recessive",
+      "option_b": "Autosomal dominant",
+      "option_c": "X-linked recessive",
+      "option_d": "Mitochondrial",
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 24,
+      "question": "A patient sustains trauma to the right side of the neck. On imaging, the right hemidiaphragm is elevated during respiration. What is the most likely cause?",
+      "option_a": "Lesion of phrenic nerve",
+      "option_b": "Hemothorax",
+      "option_c": "Pneumothorax",
+      "option_d": "Vagus nerve injury",
+      "correct_answer": "A",
+      "explanation": "The phrenic nerve (C3-C5) supplies the diaphragm; injury (often from neck trauma) -> ipsilateral hemidiaphragm on x-ray (elevated hemidiaphragm on inspiration) (FA pg 681)."
+    },
+    {
+      "question_number": 25,
+      "question": "12-year-old girl is brought by her mother due to absence of menstruation. On examination, she has clitoral enlargement and ambiguous genitalia. What is the most likely diagnosis?",
+      "option_a": "Congenital adrenal hyperplasia (CAH)",
+      "option_b": "17α-hydroxylase deficiency",
+      "option_c": "Turner syndrome",
+      "option_d": "Androgen insensitivity syndrome",
+      "correct_answer": "A",
+      "explanation": "Classic CAH (21-hydroxylase deficiency) is the most common CAH. It leads to 1) ↓ aldosterone -> salt wasting, hyperkalemia 2) ↑ Sex hormones (androgens) -> in FEMALES: virilization (clitoromegaly, ambiguous genitalia) & primary amenorrhea. In 17α-hydroxylase deficiency: 1) ↑ Aldosterone -> HTN & hypokalemia 2) ↓ Sex hormones -> in FEMALES: lack of secondary sexual characteristics (FA 339)."
+    },
+    {
+      "question_number": 26,
+      "question": "Which of the following best explains the rapid conduction of impulses in Purkinje fibers?",
+      "option_a": "Increased fiber diameter",
+      "option_b": "Increased number of gap junctions",
+      "option_c": "Increased sodium permeability",
+      "option_d": "Increased calcium influx",
+      "correct_answer": "B",
+      "explanation": "Purkinje Fibers have highest speed of conduction due to -Wide diameter > large no of gap junctions > large no of sodium Channel >Less no of myofibril > Short refractory period Speed of conduction: -Purkinje fibers > Bundle of His > Atria > Ventricles > SA node > AV node Speed of Rate -SA Node > AV Node > Purkinji fibers."
+    },
+    {
+      "question_number": 27,
+      "question": "What is required for muscle contraction?",
+      "option_a": "Tropomyosin",
+      "option_b": "Irritant",
+      "option_c": "Stretch",
+      "option_d": "J receptor",
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 28,
+      "question": "A 27-year-old woman with regular 28-day menstrual cycles presents for evaluation of fertility. The clinician wants to confirm whether ovulation is occurring. Which of the following is the most reliable test in this patient?",
+      "option_a": "Serum estrogen level on day 21",
+      "option_b": "Serum progesterone level on day 21",
+      "option_c": "Serum LH level on day 21",
+      "option_d": "Serum FSH level on day 3",
+      "correct_answer": "B",
+      "explanation": "Mid-luteal phase serum progesterone (day 21 in a 28-day cycle) is the most reliable marker of ovulation, as it reflects corpus luteum activity after ovulation."
+    },
+    {
+      "question_number": 29,
+      "question": "Woman with a history of severe postpartum hemorrhage years ago presents with hypotension (BP 80/50 mmHg), hyponatremia, and features of adrenal insufficiency. She also has a history of depression and failure to lactate after delivery. What is the most likely diagnosis?",
+      "option_a": "Addisonian crisis",
+      "option_b": "Pituitary apoplexy",
+      "option_c": "Sheehan syndrome",
+      "option_d": "Cushing syndrome",
+      "correct_answer": "C",
+      "explanation": "Severe postpartum hemorrhage -> ischemic infarct of anterior pituitary (Sheehan syndrome) leading to loss of secretion of Anterior Pituitary hormones: pregnancy-induced pituitary growth -> ↑ susceptibility to hypoperfusion. Usually presents with failure to lactate (↓ prolactin), adrenal insufficiency (↓ ACTH) etc (FA 343) Remember Pituitary apoplexy has sudden hemorrhage."
+    }
+  ]
+}
