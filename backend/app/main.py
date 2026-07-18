@@ -22,7 +22,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-        "https://mednexus-d2yf-forfrq1gs-sherazalijans-projects.vercel.app",
+        "https://mednexus-6bpe.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],

@@ -21,7 +21,7 @@
 
 import { Book, Chapter, MCQ, User, QuizAttempt, LeaderboardEntry, MCQExtractionStatus } from '../types';
 
-const API_BASE_URL = "https://mednexus-6bpe-fhog5nnak-sherazalijans-projects.vercel.app"; // Replace with your FastAPI server URL if different
+const API_BASE_URL = "https://mednexus-6bpe.vercel.app";
 
 // Standard response wrapper to handle API responses cleanly
 async function handleResponse<T>(response: Response): Promise<T> {
